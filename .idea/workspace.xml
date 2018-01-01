@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c7914b-f276-456b-bd60-1ef11569badc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_3_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/demo/domain/RunningInformationRepository.class" afterPath="$PROJECT_DIR$/target/classes/demo/domain/RunningInformationRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar.original" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/running-information-analysis-service.iml" afterPath="$PROJECT_DIR$/running-information-analysis-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/demo/domain/RunningInformationRepository.java" afterPath="$PROJECT_DIR$/src/main/java/demo/domain/RunningInformationRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -404,12 +393,12 @@
       <workItem from="1514436686977" duration="814000" />
       <workItem from="1514478864785" duration="2054000" />
       <workItem from="1514499074901" duration="837000" />
-      <workItem from="1514839980719" duration="1373000" />
+      <workItem from="1514839980719" duration="1718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21344000" />
+    <option name="totallyTimeSpent" value="21689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
