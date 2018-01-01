@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c7914b-f276-456b-bd60-1ef11569badc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar.original" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunningInformationRestController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunningInformationRestController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/rest/RunningInformationRestController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -57,6 +60,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="running_information.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/running_information.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -393,12 +406,12 @@
       <workItem from="1514436686977" duration="814000" />
       <workItem from="1514478864785" duration="2054000" />
       <workItem from="1514499074901" duration="837000" />
-      <workItem from="1514839980719" duration="2665000" />
+      <workItem from="1514839980719" duration="3954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22636000" />
+    <option name="totallyTimeSpent" value="23925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -444,14 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/RunningInformationAnalysisServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/rest/RunningInformationRestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -899,6 +904,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/running_information.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
