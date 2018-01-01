@@ -26,7 +26,21 @@ The following functions can be achieved through corresponding **REST APIs**. Mor
 * [Docker](https://www.docker.com/)
 
 ## Installation and Quick Start
-
+#### 1. Download project file
+```
+git clone https://github.com/Caroline1222/running-information-analysis-service.git 
+cd running-information-analysis-service
+```
+#### 2. Run MySQL with docker
+```
+docker-compose up
+```
+#### 3. Build and run application
+```
+mvn clean install
+java -jar target/running-information-analysis-service-1.0.0.BUILD-SNAPSHOT.jar
+```
+#### 4. Post, Get, and Delete data using Postman and running_information.json
 
 
 ## API Reference
