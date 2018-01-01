@@ -15,20 +15,15 @@
 - HealthWarningLevel (based on heartRate)
 
 The following functions can be achieved through corresponding **REST APIs**. More query functions can be easily added based on users' needs.
-- Upload runningInfo
+- Upload runningInfos
 - Delete all runningInfo
-- Delete runningInfo by runningId
 - Find runningInfo by runningId
-- Get all runningInfo with sort and pagination. Page number, page size, sort direction, and sort property can be customized
-
-
-
+- Get all runningInfo by username and sorted by HealthWarningLevel
 
 ## Requirements
-
-
-
-
+* Java Platform (JDK) 8
+* [Apache Maven](https://maven.apache.org/)
+* [Docker](https://www.docker.com/)
 
 ## Installation and Quick Start
 
