@@ -12,6 +12,7 @@
 - heartRate,
 - Timestamp,
 - userInfo (username, address)
+- HealthWarningLevel (based on heartRate)
 
 The following functions can be achieved through corresponding **REST APIs**. More query functions can be easily added based on users' needs.
 - Upload runningInfo
